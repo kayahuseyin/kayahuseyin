@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hüseyin
 - 👀 I’m MIS student
 - 🌱 I’m currently learning Swift
-- 📫 How to reach me kkayahuseyin1@gmail.com
+- 📫 How to reach me kkayahuseyin@hotmail.com
 
 <!---
 kayahuseyin/kayahuseyin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
