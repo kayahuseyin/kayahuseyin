@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hüseyin
 - 👀 I’m MIS student
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Swift and UIKit
 - 📫 How to reach me kkayahuseyin@hotmail.com
 
 <!---
