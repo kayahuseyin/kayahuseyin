@@ -1,8 +1,8 @@
 
-👋🏻 Hi, I’m Hüseyin
-👨🏻‍🎓I’m MIS graduate
-🖥️ I’m currently learning Swift and UIKit
-📫 How to reach me kkayahuseyin@outlook.com
+- 👋🏻 Hi, I’m Hüseyin
+- 👨🏻‍🎓I’m MIS graduate
+- 🖥️ I’m currently learning Swift and UIKit
+- 📫 How to reach me kkayahuseyin@outlook.com
 
 <!--
 **kayahuseyin/kayahuseyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
